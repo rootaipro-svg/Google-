@@ -15,8 +15,8 @@
 
   <script>
     const supabase = supabase.createClient(
-      "https://YOUR_PROJECT.supabase.co",
-      "YOUR_ANON_KEY"
+      "https://uysfhchahbayozbisppy.supabase.co",
+      "sb_publishable_T03nYMwpGp1uXXTPLqx_1Q_JnzMuqML"
     );
 
     async function loginWithGoogle() {
